@@ -8,7 +8,7 @@ checkout another branch without commit: git stash
 
 how to list tags:  git tag
 
-hoe to delete tag locally: git tag -d v1.5
+how to delete tag locally: git tag -d v1.5
                   remotely: git push origin :v1.5
               
 ![image](https://foundations.projectpythia.org/_images/GitHub-logo.png)
